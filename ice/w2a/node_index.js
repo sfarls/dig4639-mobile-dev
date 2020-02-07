@@ -1,4 +1,4 @@
-console.log("hello world");
+console.log("Hello World");
 var x = [1];
 function scopeDemo(x1) {
     console.log(x1);
@@ -8,7 +8,6 @@ function scopeDemo(x1) {
     console.log(a);
     console.log(b);
     console.log(c);
-    var x = 2;
     if(true) {
         var x = 0;
     }
