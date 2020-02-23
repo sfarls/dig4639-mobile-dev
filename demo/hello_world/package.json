@@ -1,18 +1,18 @@
 {
-  "name": "3",
+<<<<<<< HEAD
+  "name": "hello_world",
+=======
+  "name": "hello_world2",
+>>>>>>> fe277fcee38e1b953a813f52fa2d0a9fceacf0f6
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
-<<<<<<< HEAD
-    "@testing-library/react": "^9.4.1",
-=======
     "@testing-library/react": "^9.4.0",
->>>>>>> a1f9e4606c477861511232cd614761e40245179a
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.4.0"
+    "react-scripts": "3.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
