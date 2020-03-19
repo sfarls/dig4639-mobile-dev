@@ -5,8 +5,8 @@ import "./index.css";
 class Card extends React.Component{
     render() {
         return (
-            <div classname = "card">
-                <span classname = "close"
+            <div className = "card">
+                <span className = "close"
                     onClick = {() => this.props.clickMe()}>
                         &times;
                 </span>
