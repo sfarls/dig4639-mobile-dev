@@ -1,0 +1,171 @@
+[
+
+    {
+
+        "question": "What is your favorite color?",
+
+        "possibleAnswers":
+
+        [
+
+            {"text": "red",
+
+            "correct": true },
+
+            {"text": "blue",
+
+            "correct": true
+
+            },
+
+            {"text": "green",
+
+            "correct": true
+
+            },
+
+            {"text": "purple",
+
+            "correct": true
+
+            }
+
+        ]
+
+    },
+
+
+
+    {
+
+        "question": "What is your favorite food?",
+
+        "possibleAnswers":
+
+        [
+
+            {"text": "spaghetti",
+
+            "correct": true },
+
+            {"text": "chicken tenders",
+
+            "correct": true
+
+            },
+
+            {"text": "french fries",
+
+            "correct": false
+
+            },
+
+            {"text": "italian sub",
+
+            "correct": false
+
+            }
+
+        ]
+
+    },
+   
+    {
+
+        "question": "Which disney character is your favorite?",
+
+        "possibleAnswers":
+
+        [
+
+            {"text": "Woody",
+
+            "correct": true },
+
+            {"text": "Aladdin",
+
+            "correct": true
+
+            },
+
+            {"text": "BayMax",
+
+            "correct": false
+
+            },
+
+            {"text": "Rapunzel",
+
+            "correct": false
+
+            }
+
+        ]
+    },
+
+        {
+
+            "question": "What is your favorite animal?",
+    
+            "possibleAnswers":
+    
+            [
+    
+                {"text": "Dog",
+    
+                "correct": true },
+    
+                {"text": "Cat",
+    
+                "correct": true
+    
+                },
+    
+                {"text": "Cheetah",
+    
+                "correct": false
+    
+                },
+    
+                {"text": "Sloth",
+    
+                "correct": false
+    
+                }
+    
+            ]
+        },
+
+            {
+
+                "question": "What is your favorite sport?",
+        
+                "possibleAnswers":
+        
+                [
+        
+                    {"text": "Football",
+        
+                    "correct": true },
+        
+                    {"text": "Baseball",
+        
+                    "correct": true
+        
+                    },
+        
+                    {"text": "Basketball",
+        
+                    "correct": false
+        
+                    },
+        
+                    {"text": "Golf",
+        
+                    "correct": false
+        
+                    }
+        
+                ]
+            }
+]
