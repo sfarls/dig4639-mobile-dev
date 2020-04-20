@@ -1,0 +1,17 @@
+.card {
+  box-shadow:  0 4px 8px 0 rgba(167, 18, 167, 0.2);
+  text-align: center;
+  padding: 2em;
+  margin: auto;
+  color: purple;
+}
+
+.button {
+  background-color: red;
+  color: white;
+  padding: 2em;
+  text-align: center;
+  margin: auto;
+}
+
+
